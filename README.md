@@ -18,11 +18,3 @@ Estudante de Sistemas de Informação na UFU. Interesse em dados, IA e computaç
 ---
 
 ## Projetos
-
-### 🎮 LoL Match History Analyzer
-Análise de desempenho no Flex Queue via Riot Games API, comparando métricas entre múltiplas contas (KDA, dano, winrate) com dados históricos desde 2021.  
-`Python` `SQLite` `Pandas` `riotwatcher`
-
-### 📊 Análise de E-commerce (Olist)
-Pipeline de análise sobre base Olist com clusterização de clientes via K-Means e Elbow Method.  
-`Python` `Pandas` `scikit-learn` `SQLAlchemy`
