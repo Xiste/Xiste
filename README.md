@@ -1,5 +1,4 @@
 # Cauan Monteiro
-
 Estudante de Sistemas de Informação na UFU. Interesse em dados, IA e computação de alto desempenho.
 
 ---
@@ -18,3 +17,26 @@ Estudante de Sistemas de Informação na UFU. Interesse em dados, IA e computaç
 ---
 
 ## Projetos
+
+### 🎮 LoL Match Analytics Pipeline
+> Pipeline ETL para coleta e análise de partidas de League of Legends via Riot Games API.
+
+Arquitetura em camadas **Bronze → Silver**, com ingestão bruta de JSONs, transformação e carga em banco relacional SQLite. Métricas calculadas por partida incluem DPM, Kill Participation e Vision Score.
+
+**Stack:** Python · SQLAlchemy · SQLite · Riot API
+
+---
+
+## Interesses
+
+- Engenharia de Dados e pipelines ETL
+- Computação paralela com CUDA
+- Machine Learning aplicado
+- Sistemas de alto desempenho
+
+---
+
+## Contato
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/seu-usuario)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:seu@email.com)
