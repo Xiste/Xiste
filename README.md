@@ -11,7 +11,7 @@
 
 ### Sistemas de Informação · UFU · Minas Gerais
 
-*Construindo pipelines de dados, explorando IA e acelerando tudo com CUDA.*
+*Construindo pipelines de dados e explorando IA.*
 
 <br>
 
