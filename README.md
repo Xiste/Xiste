@@ -29,7 +29,6 @@ Sou estudante de Sistemas de Informação na **Universidade Federal de Uberlând
 Atualmente explorando:
 - Arquiteturas de pipelines ETL em camadas (Bronze → Silver → Gold)
 - Análise de dados com Python (Pandas, Matplotlib, Seaborn)
-- Paralelização e otimização com **CUDA / C**
 - Machine Learning aplicado a dados reais
 
 ---
@@ -42,15 +41,12 @@ Atualmente explorando:
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
-![CUDA](https://img.shields.io/badge/CUDA-76B900?style=flat-square&logo=nvidia&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
 
 **Dados & ML**
 
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square&logo=python&logoColor=white)
 ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square&logo=sqlalchemy&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
 
@@ -94,18 +90,6 @@ Silver (SQLite)  →  Pandas  →  Matplotlib / Seaborn  →  scikit-learn
 ```
 
 **Stack:** Python · SQLAlchemy · SQLite · Pandas · Matplotlib · Seaborn · Riot API v5
-
----
-
-## GitHub Stats
-
-<div align="center">
-
-![Stats](https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=default&hide_border=true&bg_color=00000000&title_color=378ADD&icon_color=378ADD&text_color=444441)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario&layout=compact&hide_border=true&bg_color=00000000&title_color=378ADD&text_color=444441)
-
-</div>
 
 ---
 
