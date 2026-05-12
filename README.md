@@ -24,7 +24,10 @@
 
 ## Sobre mim
 
-Sou estudante de Sistemas de Informação na **Universidade Federal de Uberlândia**, com foco em engenharia de dados, machine learning e computação de alto desempenho. Gosto de projetos que envolvam desde a coleta bruta até a análise final dos dados, passando por arquiteturas bem estruturadas e código limpo.
+Estudante de Sistemas de Informação na UFU com foco em Engenharia de Dados e desenvolvimento de
+pipelines ETL/ELT em Python. Experiência prática com ingestão de APIs, modelagem de dados e arquitetura
+medallion em projetos analíticos. Buscando primeira oportunidade na área de dados, com interesse em
+engenharia de dados e desenvolvimento backend em Python.
 
 Atualmente explorando:
 - Arquiteturas de pipelines ETL em camadas (Bronze → Silver → Gold)
